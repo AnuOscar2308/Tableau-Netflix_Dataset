@@ -24,7 +24,9 @@ This project answers:
 ### 1) Content Distribution
 Bubble chart:
 - Movies vs TV Shows
-Finding: Movies dominate the platform catalog
+
+Finding: Movies dominate the platform catalogue
+
 ### 2) Ratings Analysis
 Bar chart of rating categories:
 - TV-MA
@@ -32,16 +34,24 @@ Bar chart of rating categories:
 - R
 - PG-13
 - etc.
+
 Used to understand target audience demographics.
+
 ### 3) Geographic Distribution
 World map visualization:
+
 Total titles by country.
+
 Shows which regions produce the most Netflix content.
+
 ### 4) Genre Analysis
 Top 10 genres bar chart showing dominant content categories.
+
 ### 5) Growth Over Time
 Area chart showing number of titles added per year.
+
 Reveals platform expansion trend.
+
 ### 6) Individual Title Insights
 Dashboard header shows metadata:
 - Release year
