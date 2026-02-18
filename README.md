@@ -17,10 +17,56 @@ Streaming platforms rely heavily on understanding viewer preferences and content
 - Audience rating targeting (kids vs adults)
 
 This project answers:
+
 **_How has Netflix structured its content library and what does it reveal about its platform strategy?_**
 
 ## Visualization & Analysis:
 ### 1) Content Distribution
-  _Bubble chart comparing:_
+  _Bubble chart:_
   - Movies vs TV Shows
   Finding: Movies dominate the platform catalog
+### 2) Ratings Analysis
+  _Bar chart of rating categories:_
+  - TV-MA
+  - TV-14
+  - R
+  - PG-13
+  - etc.
+  Used to understand target audience demographics.
+### 3) Geographic Distribution
+  _World map visualization:_
+  Total titles by country.
+  Shows which regions produce the most Netflix content.
+### 4) Genre Analysis
+  Top 10 genres bar chart showing dominant content categories.
+### 5) Growth Over Time
+  Area chart showing number of titles added per year.
+  Reveals platform expansion trend.
+### 6) Individual Title Insights
+  Dashboard header shows metadata:
+  - Release year
+  - Duration
+  - Genre
+  - Description
+  Allows drill-down exploration.
+
+## Skills:
+- **Data Visualization:** Tableau dashboard design, Interactive filtering, Multi-chart storytelling
+- **Data Analysis:** Exploratory Data Analysis (EDA), Trend analysis, Distribution analysis
+- **Data Handling:** CSV dataset processing, Feature grouping, Data aggregation
+- **Analytics Concepts:** Audience segmentation, Content strategy inference
+
+## Key Findings
+- Movies make up the majority of Netflix catalog
+- Mature audience ratings (TV-MA, TV-14) dominate
+- Content production increased significantly after 2015
+- Certain countries contribute disproportionately to the catalog
+- Documentaries and stand-up comedy are highly prevalent genres
+
+## Business Recommendation
+Netflix appears to prioritize quantity expansion and mature audience targeting.
+Platforms can use similar analysis to:
+- Identify underserved regions
+- Optimize genre investments
+- Balance movie vs series production
+- Adjust age-group targeting strategies
