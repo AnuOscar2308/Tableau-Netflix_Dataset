@@ -22,35 +22,33 @@ This project answers:
 
 ## Visualization & Analysis:
 ### 1) Content Distribution
-  Bubble chart:
-  - Movies vs TV Shows
-  Finding: Movies dominate the platform catalog
+Bubble chart:
+- Movies vs TV Shows
+Finding: Movies dominate the platform catalog
 ### 2) Ratings Analysis
-  Bar chart of rating categories:
-  - TV-MA
-  - TV-14
-  - R
-  - PG-13
-  - etc.
-  Used to understand target audience demographics.
+Bar chart of rating categories:
+- TV-MA
+- TV-14
+- R
+- PG-13
+- etc.
+Used to understand target audience demographics.
 ### 3) Geographic Distribution
-  World map visualization:
-  
-  Total titles by country.
-  
-  Shows which regions produce the most Netflix content.
+World map visualization:
+Total titles by country.
+Shows which regions produce the most Netflix content.
 ### 4) Genre Analysis
-  Top 10 genres bar chart showing dominant content categories.
+Top 10 genres bar chart showing dominant content categories.
 ### 5) Growth Over Time
-  Area chart showing number of titles added per year.
-  Reveals platform expansion trend.
+Area chart showing number of titles added per year.
+Reveals platform expansion trend.
 ### 6) Individual Title Insights
-  Dashboard header shows metadata:
-  - Release year
-  - Duration
-  - Genre
-  - Description
-  Allows drill-down exploration.
+Dashboard header shows metadata:
+- Release year
+- Duration
+- Genre
+- Description
+Allows drill-down exploration.
 
 ## Skills:
 - **Data Visualization:** Tableau dashboard design, Interactive filtering, Multi-chart storytelling
