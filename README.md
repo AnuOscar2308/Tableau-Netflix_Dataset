@@ -34,9 +34,11 @@ This project answers:
   - etc.
   Used to understand target audience demographics.
 ### 3) Geographic Distribution
-World map visualization:
-Total titles by country.
-Shows which regions produce the most Netflix content.
+  World map visualization:
+  
+  Total titles by country.
+  
+  Shows which regions produce the most Netflix content.
 ### 4) Genre Analysis
   Top 10 genres bar chart showing dominant content categories.
 ### 5) Growth Over Time
