@@ -39,7 +39,9 @@ Used to understand target audience demographics.
 
 ### 3) Geographic Distribution
 World map visualization:
+
 Total titles by country.
+
 Shows which regions produce the most Netflix content.
 
 ### 4) Genre Analysis
