@@ -60,6 +60,9 @@ Dashboard header shows metadata:
 - Description
 Allows drill-down exploration.
 
+## Final Dashboard:
+<img width="1800" height="1000" alt="Netflix Dashboard" src="https://github.com/user-attachments/assets/3a8bb0c0-b111-45c9-a324-44b18a6f34b2" />
+
 ## Skills:
 - **Data Visualization:** Tableau dashboard design, Interactive filtering, Multi-chart storytelling
 - **Data Analysis:** Exploratory Data Analysis (EDA), Trend analysis, Distribution analysis
